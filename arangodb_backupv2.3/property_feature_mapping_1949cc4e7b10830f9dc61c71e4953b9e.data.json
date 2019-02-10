@@ -1,0 +1,105 @@
+{"type":2300,"data":{"_key":"property_type:1","_id":"property_feature_mapping/property_type:1","_from":"property/69123:1","_to":"property_features/rent","_rev":"_YJOpt1S--_","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_size:6","_id":"property_feature_mapping/property_size:6","_from":"property/69123:6","_to":"property_features/size:3.5","_rev":"_YJOpt1S--B","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_size:7","_id":"property_feature_mapping/property_size:7","_from":"property/69123:7","_to":"property_features/size:3.5","_rev":"_YJOpt1S--F","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_size:14","_id":"property_feature_mapping/property_size:14","_from":"property/69123:14","_to":"property_features/size:3.5","_rev":"_YJOpt1S--D","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_size:8","_id":"property_feature_mapping/property_size:8","_from":"property/69123:8","_to":"property_features/size:3.5","_rev":"_YJOpt1W--B","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_size:13","_id":"property_feature_mapping/property_size:13","_from":"property/69123:13","_to":"property_features/size:3.5","_rev":"_YJOpt1W--_","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_size:9","_id":"property_feature_mapping/property_size:9","_from":"property/69123:9","_to":"property_features/size:3.5","_rev":"_YJOpt1W--H","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_size:12","_id":"property_feature_mapping/property_size:12","_from":"property/69123:12","_to":"property_features/size:3.5","_rev":"_YJOpt1W--F","type":"is_size"}}
+{"type":2300,"data":{"_key":"amenities:6:1","_id":"property_feature_mapping/amenities:6:1","_from":"property/69123:6","_to":"property_features/parking_space","_rev":"_YJOpt1W--D","type":"include"}}
+{"type":2300,"data":{"_key":"502818","_id":"property_feature_mapping/502818","_from":"property/69123:6","_to":"property/69123","_rev":"_YJOpt1W--J","type":"in"}}
+{"type":2300,"data":{"_key":"amenities:6:3","_id":"property_feature_mapping/amenities:6:3","_from":"property/69123:6","_to":"property_features/water_heater","_rev":"_YJOpt1W--L","type":"include"}}
+{"type":2300,"data":{"_key":"property_size:10","_id":"property_feature_mapping/property_size:10","_from":"property/69123:10","_to":"property_features/size:3.5","_rev":"_YJOpt1W--N","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_price:9","_id":"property_feature_mapping/property_price:9","_from":"property/69123:9","_to":"property_features/price_range:1","_rev":"_YJOpt1W--P","type":"is_range"}}
+{"type":2300,"data":{"_key":"amenities:6:2","_id":"property_feature_mapping/amenities:6:2","_from":"property/69123:6","_to":"property_features/room_heater","_rev":"_YJOpt1W--R","type":"include"}}
+{"type":2300,"data":{"_key":"property_size:11","_id":"property_feature_mapping/property_size:11","_from":"property/69123:11","_to":"property_features/size:3.5","_rev":"_YJOpt1W--T","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_price:8","_id":"property_feature_mapping/property_price:8","_from":"property/69123:8","_to":"property_features/price_range:1","_rev":"_YJOpt1W--V","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_size:15","_id":"property_feature_mapping/property_size:15","_from":"property/69123:15","_to":"property_features/size:3.5","_rev":"_YJOpt1a--_","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_size:1","_id":"property_feature_mapping/property_size:1","_from":"property/69123:1","_to":"property_features/size:3.5","_rev":"_YJOpt1a--D","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_type:6","_id":"property_feature_mapping/property_type:6","_from":"property/69123:6","_to":"property_features/rent","_rev":"_YJOpt1a--B","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_size:2","_id":"property_feature_mapping/property_size:2","_from":"property/69123:2","_to":"property_features/size:2","_rev":"_YJOpt1a--H","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_type:5","_id":"property_feature_mapping/property_type:5","_from":"property/69123:5","_to":"property_features/sell","_rev":"_YJOpt1a--F","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_size:3","_id":"property_feature_mapping/property_size:3","_from":"property/69123:3","_to":"property_features/size:3","_rev":"_YJOpt1a--L","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_type:4","_id":"property_feature_mapping/property_type:4","_from":"property/69123:4","_to":"property_features/sell","_rev":"_YJOpt1a--J","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_size:5","_id":"property_feature_mapping/property_size:5","_from":"property/69123:5","_to":"property_features/size:3","_rev":"_YJOpt1a--P","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_type:2","_id":"property_feature_mapping/property_type:2","_from":"property/69123:2","_to":"property_features/sell","_rev":"_YJOpt1a--N","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_size:4","_id":"property_feature_mapping/property_size:4","_from":"property/69123:4","_to":"property_features/size:1","_rev":"_YJOpt1e--_","type":"is_size"}}
+{"type":2300,"data":{"_key":"property_type:3","_id":"property_feature_mapping/property_type:3","_from":"property/69123:3","_to":"property_features/rent","_rev":"_YJOpt1a--R","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_price:1","_id":"property_feature_mapping/property_price:1","_from":"property/69123:1","_to":"property_features/price_range:2","_rev":"_YJOpt1e--D","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_price:12","_id":"property_feature_mapping/property_price:12","_from":"property/69123:12","_to":"property_features/price_range:5","_rev":"_YJOpt1e--B","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_price:11","_id":"property_feature_mapping/property_price:11","_from":"property/69123:11","_to":"property_features/price_range:2","_rev":"_YJOpt1e--J","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_price:2","_id":"property_feature_mapping/property_price:2","_from":"property/69123:2","_to":"property_features/price_range:8","_rev":"_YJOpt1e--F","type":"is_range"}}
+{"type":2300,"data":{"_key":"amenities:1:3","_id":"property_feature_mapping/amenities:1:3","_from":"property/69123:1","_to":"property_features/parking_space","_rev":"_YJOpt1e--H","type":"include"}}
+{"type":2300,"data":{"_key":"property_price:10","_id":"property_feature_mapping/property_price:10","_from":"property/69123:10","_to":"property_features/price_range:2","_rev":"_YJOpt1e--P","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_price:3","_id":"property_feature_mapping/property_price:3","_from":"property/69123:3","_to":"property_features/price_range:2","_rev":"_YJOpt1e--L","type":"is_range"}}
+{"type":2300,"data":{"_key":"amenities:1:2","_id":"property_feature_mapping/amenities:1:2","_from":"property/69123:1","_to":"property_features/water_heater","_rev":"_YJOpt1e--N","type":"include"}}
+{"type":2300,"data":{"_key":"property_price:4","_id":"property_feature_mapping/property_price:4","_from":"property/69123:4","_to":"property_features/price_range:7","_rev":"_YJOpt1e--R","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_price:5","_id":"property_feature_mapping/property_price:5","_from":"property/69123:5","_to":"property_features/price_range:4","_rev":"_YJOpt1e--T","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_price:6","_id":"property_feature_mapping/property_price:6","_from":"property/69123:6","_to":"property_features/price_range:2","_rev":"_YJOpt1i--B","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_price:15","_id":"property_feature_mapping/property_price:15","_from":"property/69123:15","_to":"property_features/price_range:1","_rev":"_YJOpt1i--_","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_price:7","_id":"property_feature_mapping/property_price:7","_from":"property/69123:7","_to":"property_features/price_range:1","_rev":"_YJOpt1i--F","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_price:14","_id":"property_feature_mapping/property_price:14","_from":"property/69123:14","_to":"property_features/price_range:1","_rev":"_YJOpt1i--D","type":"is_range"}}
+{"type":2300,"data":{"_key":"property_price:13","_id":"property_feature_mapping/property_price:13","_from":"property/69123:13","_to":"property_features/price_range:1","_rev":"_YJOpt1i--J","type":"is_range"}}
+{"type":2300,"data":{"_key":"amenities:1:1","_id":"property_feature_mapping/amenities:1:1","_from":"property/69123:1","_to":"property_features/room_heater","_rev":"_YJOpt1i--H","type":"include"}}
+{"type":2300,"data":{"_key":"property_type:7","_id":"property_feature_mapping/property_type:7","_from":"property/69123:7","_to":"property_features/rent","_rev":"_YJOpt1i--L","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_type:8","_id":"property_feature_mapping/property_type:8","_from":"property/69123:8","_to":"property_features/rent","_rev":"_YJOpt1i--N","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_type:9","_id":"property_feature_mapping/property_type:9","_from":"property/69123:9","_to":"property_features/rent","_rev":"_YJOpt1i--P","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_type:10","_id":"property_feature_mapping/property_type:10","_from":"property/69123:10","_to":"property_features/rent","_rev":"_YJOpt1i--V","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_genre:2","_id":"property_feature_mapping/property_genre:2","_from":"property/69123:2","_to":"property_features/renovated","_rev":"_YJOpt1i--T","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_genre:11","_id":"property_feature_mapping/property_genre:11","_from":"property/69123:11","_to":"property_features/old","_rev":"_YJOpt1i--R","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_type:11","_id":"property_feature_mapping/property_type:11","_from":"property/69123:11","_to":"property_features/rent","_rev":"_YJOpt1m--D","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_genre:3","_id":"property_feature_mapping/property_genre:3","_from":"property/69123:3","_to":"property_features/old","_rev":"_YJOpt1m--B","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_genre:10","_id":"property_feature_mapping/property_genre:10","_from":"property/69123:10","_to":"property_features/renovated","_rev":"_YJOpt1m--_","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_type:12","_id":"property_feature_mapping/property_type:12","_from":"property/69123:12","_to":"property_features/sell","_rev":"_YJOpt1m--H","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_genre:13","_id":"property_feature_mapping/property_genre:13","_from":"property/69123:13","_to":"property_features/new","_rev":"_YJOpt1m--F","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_type:13","_id":"property_feature_mapping/property_type:13","_from":"property/69123:13","_to":"property_features/rent","_rev":"_YJOpt1m--N","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_genre:1","_id":"property_feature_mapping/property_genre:1","_from":"property/69123:1","_to":"property_features/new","_rev":"_YJOpt1m--L","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_genre:12","_id":"property_feature_mapping/property_genre:12","_from":"property/69123:12","_to":"property_features/old","_rev":"_YJOpt1m--J","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_type:14","_id":"property_feature_mapping/property_type:14","_from":"property/69123:14","_to":"property_features/rent","_rev":"_YJOpt1m--T","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_genre:6","_id":"property_feature_mapping/property_genre:6","_from":"property/69123:6","_to":"property_features/new","_rev":"_YJOpt1m--R","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_genre:15","_id":"property_feature_mapping/property_genre:15","_from":"property/69123:15","_to":"property_features/old","_rev":"_YJOpt1m--P","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_type:15","_id":"property_feature_mapping/property_type:15","_from":"property/69123:15","_to":"property_features/rent","_rev":"_YJOpt1m--Z","type":"is_for"}}
+{"type":2300,"data":{"_key":"property_genre:7","_id":"property_feature_mapping/property_genre:7","_from":"property/69123:7","_to":"property_features/new","_rev":"_YJOpt1m--X","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_genre:14","_id":"property_feature_mapping/property_genre:14","_from":"property/69123:14","_to":"property_features/new","_rev":"_YJOpt1m--V","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_genre:4","_id":"property_feature_mapping/property_genre:4","_from":"property/69123:4","_to":"property_features/old","_rev":"_YJOpt1q--_","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_genre:5","_id":"property_feature_mapping/property_genre:5","_from":"property/69123:5","_to":"property_features/renovated","_rev":"_YJOpt1q--B","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_genre:8","_id":"property_feature_mapping/property_genre:8","_from":"property/69123:8","_to":"property_features/renovated","_rev":"_YJOpt1q--D","type":"is_type"}}
+{"type":2300,"data":{"_key":"property_genre:9","_id":"property_feature_mapping/property_genre:9","_from":"property/69123:9","_to":"property_features/renovated","_rev":"_YJOpt1q--F","type":"is_type"}}
+{"type":2300,"data":{"_key":"amenities:2:1","_id":"property_feature_mapping/amenities:2:1","_from":"property/69123:2","_to":"property_features/room_heater","_rev":"_YJOpt1q--H","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:2:2","_id":"property_feature_mapping/amenities:2:2","_from":"property/69123:2","_to":"property_features/water_heater","_rev":"_YJOpt1q--J","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:3:1","_id":"property_feature_mapping/amenities:3:1","_from":"property/69123:3","_to":"property_features/parking_space","_rev":"_YJOpt1q--L","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:3:2","_id":"property_feature_mapping/amenities:3:2","_from":"property/69123:3","_to":"property_features/room_heater","_rev":"_YJOpt1q--N","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:3:3","_id":"property_feature_mapping/amenities:3:3","_from":"property/69123:3","_to":"property_features/water_heater","_rev":"_YJOpt1q--P","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:8:2","_id":"property_feature_mapping/amenities:8:2","_from":"property/69123:8","_to":"property_features/parking_space","_rev":"_YJOpt1q--R","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:8:1","_id":"property_feature_mapping/amenities:8:1","_from":"property/69123:8","_to":"property_features/room_heater","_rev":"_YJOpt1q--T","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:11:1","_id":"property_feature_mapping/amenities:11:1","_from":"property/69123:11","_to":"property_features/parking_space","_rev":"_YJOpt1q--V","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:11:2","_id":"property_feature_mapping/amenities:11:2","_from":"property/69123:11","_to":"property_features/room_heater","_rev":"_YJOpt1q--X","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:11:3","_id":"property_feature_mapping/amenities:11:3","_from":"property/69123:11","_to":"property_features/water_heater","_rev":"_YJOpt1q--Z","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:14:1","_id":"property_feature_mapping/amenities:14:1","_from":"property/69123:14","_to":"property_features/parking_space","_rev":"_YJOpt1q--b","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:14:2","_id":"property_feature_mapping/amenities:14:2","_from":"property/69123:14","_to":"property_features/room_heater","_rev":"_YJOpt1q--d","type":"include"}}
+{"type":2300,"data":{"_key":"amenities:14:3","_id":"property_feature_mapping/amenities:14:3","_from":"property/69123:14","_to":"property_features/water_heater","_rev":"_YJOpt1q--f","type":"include"}}
+{"type":2300,"data":{"_key":"1187042:own:5","_id":"property_feature_mapping/1187042:own:5","_from":"User/1187042","_to":"property/69123:5","_rev":"_YJOpt1q--h","type":"owned by"}}
+{"type":2300,"data":{"_key":"1187042:own:7","_id":"property_feature_mapping/1187042:own:7","_from":"User/1187042","_to":"property/69123:7","_rev":"_YJOpt1u--_","type":"owned by"}}
+{"type":2300,"data":{"_key":"1187042:own:12","_id":"property_feature_mapping/1187042:own:12","_from":"User/1187042","_to":"property/69123:12","_rev":"_YJOpt1u--B","type":"owned by"}}
+{"type":2300,"data":{"_key":"1187044:own:11","_id":"property_feature_mapping/1187044:own:11","_from":"User/1187044","_to":"property/69123:11","_rev":"_YJOpt1y--B","type":"owned by"}}
+{"type":2300,"data":{"_key":"1187044:own:2","_id":"property_feature_mapping/1187044:own:2","_from":"User/1187044","_to":"property/69123:2","_rev":"_YJOpt1y--_","type":"owned by"}}
+{"type":2300,"data":{"_key":"1187043:own:1","_id":"property_feature_mapping/1187043:own:1","_from":"User/1187043","_to":"property/69123:1","_rev":"_YJOpt1y--D","type":"owned by"}}
+{"type":2300,"data":{"_key":"1187043:own:6","_id":"property_feature_mapping/1187043:own:6","_from":"User/1187043","_to":"property/69123:6","_rev":"_YJOpt1y--F","type":"owned by"}}
+{"type":2300,"data":{"_key":"1187043:own:9","_id":"property_feature_mapping/1187043:own:9","_from":"User/1187043","_to":"property/69123:9","_rev":"_YJOpt1y--H","type":"owned by"}}
+{"type":2300,"data":{"_key":"1187043:own:15","_id":"property_feature_mapping/1187043:own:15","_from":"User/1187043","_to":"property/69123:15","_rev":"_YJOpt1y--J","type":"owned by"}}
+{"type":2300,"data":{"_key":"502854","_id":"property_feature_mapping/502854","_from":"property/69123:12","_to":"property/69123","_rev":"_YJOpt12--H","type":"in"}}
+{"type":2300,"data":{"_key":"501958","_id":"property_feature_mapping/501958","_from":"property/69123:16","_to":"property/69123","_rev":"_YJOpt1y--L","type":"in"}}
+{"type":2300,"data":{"_key":"502498","_id":"property_feature_mapping/502498","_from":"property/69123:1","_to":"property/69123","_rev":"_YJOpt1y--N","type":"in"}}
+{"type":2300,"data":{"_key":"502536","_id":"property_feature_mapping/502536","_from":"property/69123:2","_to":"property/69123","_rev":"_YJOpt1y--P","type":"in"}}
+{"type":2300,"data":{"_key":"502557","_id":"property_feature_mapping/502557","_from":"property/69123:4","_to":"property/69123","_rev":"_YJOpt1y--R","type":"in"}}
+{"type":2300,"data":{"_key":"502846","_id":"property_feature_mapping/502846","_from":"property/69123:10","_to":"property/69123","_rev":"_YJOpt1y--T","type":"in"}}
+{"type":2300,"data":{"_key":"502847","_id":"property_feature_mapping/502847","_from":"property/69123:3","_to":"property/69123","_rev":"_YJOpt1y--V","type":"in"}}
+{"type":2300,"data":{"_key":"502848","_id":"property_feature_mapping/502848","_from":"property/69123:5","_to":"property/69123","_rev":"_YJOpt1y--X","type":"in"}}
+{"type":2300,"data":{"_key":"502849","_id":"property_feature_mapping/502849","_from":"property/69123:6","_to":"property/69123","_rev":"_YJOpt1y--Z","type":"in"}}
+{"type":2300,"data":{"_key":"502850","_id":"property_feature_mapping/502850","_from":"property/69123:7","_to":"property/69123","_rev":"_YJOpt12--_","type":"in"}}
+{"type":2300,"data":{"_key":"502851","_id":"property_feature_mapping/502851","_from":"property/69123:8","_to":"property/69123","_rev":"_YJOpt12--B","type":"in"}}
+{"type":2300,"data":{"_key":"502852","_id":"property_feature_mapping/502852","_from":"property/69123:9","_to":"property/69123","_rev":"_YJOpt12--D","type":"in"}}
+{"type":2300,"data":{"_key":"502853","_id":"property_feature_mapping/502853","_from":"property/69123:11","_to":"property/69123","_rev":"_YJOpt12--F","type":"in"}}
+{"type":2300,"data":{"_key":"502855","_id":"property_feature_mapping/502855","_from":"property/69123:13","_to":"property/69123","_rev":"_YJOpt12--J","type":"in"}}
+{"type":2300,"data":{"_key":"502856","_id":"property_feature_mapping/502856","_from":"property/69123:14","_to":"property/69123","_rev":"_YJOpt12--L","type":"in"}}
+{"type":2300,"data":{"_key":"502857","_id":"property_feature_mapping/502857","_from":"property/69123:15","_to":"property/69123","_rev":"_YJOpt12--N","type":"in"}}

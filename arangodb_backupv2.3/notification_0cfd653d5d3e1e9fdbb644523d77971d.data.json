@@ -1,0 +1,8 @@
+{"type":2300,"data":{"_key":"1168399","_id":"notification/1168399","_from":"User/1187042","_to":"property/69123","_rev":"_YI9brCi--_","type":"subscription"}}
+{"type":2300,"data":{"_key":"1168412","_id":"notification/1168412","_from":"User/1187045","_to":"property/69123","_rev":"_YI9brCi--B","type":"subscription"}}
+{"type":2300,"data":{"_key":"1168523","_id":"notification/1168523","_from":"User/1187043","_to":"property/69123","_rev":"_YI9brE---_","type":"subscription"}}
+{"type":2300,"data":{"_key":"1169483","_id":"notification/1169483","_from":"property/69123","_to":"User/1187045","_rev":"_YI9brCi--D","notification_of":"property/69123:5"}}
+{"type":2300,"data":{"_key":"1168537","_id":"notification/1168537","_from":"User/1187044","_to":"property/69123","_rev":"_YI9brE---B","type":"subscription"}}
+{"type":2300,"data":{"_key":"1169496","_id":"notification/1169496","_from":"property/69123","_to":"User/1187042","_rev":"_YI9brE---D","notification_of ":"property/69123:5"}}
+{"type":2300,"data":{"_key":"1168538","_id":"notification/1168538","_from":"property/69123","_to":"User/1187044","_rev":"_YI9brE---F","notification_of":"property/69123:5"}}
+{"type":2300,"data":{"_key":"1168524","_id":"notification/1168524","_from":"property/69123","_to":"User/1187043","_rev":"_YI9brEC--_","notification_of":"property/69123:5"}}
